@@ -1,0 +1,7 @@
+<region> sample=../samples/101BS35.wav  pitch_keycenter=59 lokey=0 hikey=34 tune=33 loop_start=1353 loop_end=1443 offset=0
+<region> sample=../samples/101BS35.wav  pitch_keycenter=59 lokey=35 hikey=46 tune=33 loop_start=1353 loop_end=1443 offset=0
+<region> sample=../samples/101BS48.wav  pitch_keycenter=72 lokey=47 hikey=60 tune=35 loop_start=1380 loop_end=1422 offset=0
+<region> sample=../samples/101BS48.wav  pitch_keycenter=72 lokey=61 hikey=72 tune=35 loop_start=1380 loop_end=1422 offset=0
+<region> sample=../samples/101BS48.wav  pitch_keycenter=72 lokey=73 hikey=84 tune=35 loop_start=1380 loop_end=1422 offset=0
+<region> sample=../samples/101BS48.wav  pitch_keycenter=72 lokey=85 hikey=96 tune=35 loop_start=1380 loop_end=1422 offset=0
+<region> sample=../samples/101BS48.wav  pitch_keycenter=72 lokey=97 hikey=127 tune=35 loop_start=1380 loop_end=1422 offset=0

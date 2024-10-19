@@ -1,0 +1,4 @@
+<region> sample=../samples/POPVX64A.wav  pitch_keycenter=70 lokey=0 hikey=68 tune=48 loop_start=918 loop_end=2667 offset=0
+<region> sample=../samples/POPVX71A.wav  pitch_keycenter=79 lokey=69 hikey=84 tune=4 loop_start=1315 loop_end=3259 offset=0
+<region> sample=../samples/POPVX74A.wav  pitch_keycenter=90 lokey=85 hikey=100 tune=21 loop_start=1445 loop_end=3271 offset=0
+<region> sample=../samples/SBRS296.wav  pitch_keycenter=95 lokey=101 hikey=127 tune=-25 loop_start=2406 loop_end=2427 offset=0

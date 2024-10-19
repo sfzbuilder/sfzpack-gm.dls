@@ -1,0 +1,6 @@
+<region> sample=../samples/BAGPP53A.wav  pitch_keycenter=53 lokey=0 hikey=56 tune=1 loop_start=3407 loop_end=3659 offset=0
+<region> sample=../samples/BAGPP64A.wav  pitch_keycenter=64 lokey=57 hikey=68 tune=1 loop_start=2513 loop_end=2780 offset=0
+<region> sample=../samples/BAGPP74A.wav  pitch_keycenter=74 lokey=69 hikey=79 tune=19 loop_start=1787 loop_end=1824 offset=0
+<region> sample=../samples/BAGPP84A.wav  pitch_keycenter=84 lokey=80 hikey=84 tune=3 loop_start=1781 loop_end=1949 offset=0
+<region> sample=../samples/BAGPP93A.wav  pitch_keycenter=93 lokey=85 hikey=91 tune=24 loop_start=684 loop_end=772 offset=0
+<region> sample=../samples/S_SAXA2.wav  pitch_keycenter=89 lokey=92 hikey=127 tune=25 loop_start=458 loop_end=473 offset=0

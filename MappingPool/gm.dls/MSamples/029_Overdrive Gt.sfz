@@ -1,0 +1,10 @@
+<region> sample=../samples/OVDRV44.wav  pitch_keycenter=32 lokey=0 hikey=44 tune=-3 loop_start=4335 loop_end=4758 offset=0
+<region> sample=../samples/OVDRV49.wav  pitch_keycenter=37 lokey=45 hikey=49 tune=-1 loop_start=3585 loop_end=3902 offset=0
+<region> sample=../samples/OVDRV60.wav  pitch_keycenter=48 lokey=50 hikey=57 tune=4 loop_start=2433 loop_end=2601 offset=0
+<region> sample=../samples/OVDRV60A.wav  pitch_keycenter=60 lokey=58 hikey=63 tune=4 loop_start=4190 loop_end=4358 offset=0
+<region> sample=../samples/OVDRV70.wav  pitch_keycenter=59 lokey=64 hikey=70 tune=-25 loop_start=1213 loop_end=1300 offset=0
+<region> sample=../samples/OVDRV73.wav  pitch_keycenter=61 lokey=71 hikey=73 tune=10 loop_start=1253 loop_end=1332 offset=0
+<region> sample=../samples/OVDRV77.wav  pitch_keycenter=65 lokey=74 hikey=77 tune=-4 loop_start=867 loop_end=929 offset=0
+<region> sample=../samples/OVDRV89.wav  pitch_keycenter=77 lokey=78 hikey=89 tune=-32 loop_start=643 loop_end=673 offset=0
+<region> sample=../samples/OVDRV96.wav  pitch_keycenter=84 lokey=90 hikey=96 tune=-6 loop_start=378 loop_end=398 offset=0
+<region> sample=../samples/OVDRVA6.wav  pitch_keycenter=94 lokey=97 hikey=127 tune=-4 loop_start=291 loop_end=349 offset=0

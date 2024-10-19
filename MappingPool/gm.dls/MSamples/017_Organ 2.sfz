@@ -1,0 +1,3 @@
+<region> sample=../samples/EORG253.wav  pitch_keycenter=41 lokey=0 hikey=52 tune=3 loop_start=3682 loop_end=3934 offset=0
+<region> sample=../samples/EORG268.wav  pitch_keycenter=56 lokey=53 hikey=70 tune=13 loop_start=1663 loop_end=1769 offset=0
+<region> sample=../samples/EORG286.wav  pitch_keycenter=74 lokey=71 hikey=115 tune=-2 loop_start=1340 loop_end=1414 offset=0

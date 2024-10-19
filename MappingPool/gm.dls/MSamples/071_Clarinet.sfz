@@ -1,0 +1,6 @@
+<region> sample=../samples/SYNCL55.wav  pitch_keycenter=55 lokey=0 hikey=56 tune=-8 loop_start=113 loop_end=224 offset=0
+<region> sample=../samples/SYNCL64.wav  pitch_keycenter=64 lokey=57 hikey=70 tune=28 loop_start=70 loop_end=137 offset=0
+<region> sample=../samples/SYNCL70.wav  pitch_keycenter=70 lokey=71 hikey=78 tune=-11 loop_start=48 loop_end=94 offset=0
+<region> sample=../samples/SYNCL75.wav  pitch_keycenter=75 lokey=79 hikey=85 tune=-21 loop_start=36 loop_end=70 offset=0
+<region> sample=../samples/SYNCL87.wav  pitch_keycenter=87 lokey=86 hikey=99 tune=27 loop_start=38 loop_end=55 offset=0
+<region> sample=../samples/S_SAXA8.wav  pitch_keycenter=95 lokey=100 hikey=127 tune=-25 loop_start=366 loop_end=409 offset=0

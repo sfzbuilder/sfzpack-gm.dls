@@ -1,0 +1,6 @@
+<region> sample=../samples/RECDR66A.wav  pitch_keycenter=66 lokey=0 hikey=70 tune=-4 loop_start=934 loop_end=993 offset=0
+<region> sample=../samples/RECDR75A.wav  pitch_keycenter=75 lokey=71 hikey=77 tune=11 loop_start=1034 loop_end=1069 offset=0
+<region> sample=../samples/RECDR83A.wav  pitch_keycenter=83 lokey=78 hikey=88 tune=36 loop_start=733 loop_end=755 offset=0
+<region> sample=../samples/RECDR93A.wav  pitch_keycenter=93 lokey=89 hikey=95 tune=48 loop_start=309 loop_end=321 offset=0
+<region> sample=../samples/RECDRA3A.wav  pitch_keycenter=101 lokey=96 hikey=97 tune=8 loop_start=190 loop_end=205 offset=0
+<region> sample=../samples/OCARI96A.wav  pitch_keycenter=95 lokey=98 hikey=127 tune=-25 loop_start=2880 loop_end=2890 offset=0

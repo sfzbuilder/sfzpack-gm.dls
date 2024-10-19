@@ -1,0 +1,8 @@
+<region> sample=../samples/MGSQR45.wav  pitch_keycenter=45 lokey=0 hikey=45 tune=5 loop_start=15 loop_end=215 offset=0
+<region> sample=../samples/MGSQR57.wav  pitch_keycenter=56 lokey=46 hikey=55 tune=-3 loop_start=14 loop_end=119 offset=0
+<region> sample=../samples/MGSQR69.wav  pitch_keycenter=68 lokey=56 hikey=67 tune=-3 loop_start=14 loop_end=66 offset=0
+<region> sample=../samples/MGSQR81.wav  pitch_keycenter=80 lokey=68 hikey=80 tune=29 loop_start=17 loop_end=43 offset=0
+<region> sample=../samples/MGSQR93.wav  pitch_keycenter=91 lokey=81 hikey=91 tune=-8 loop_start=15 loop_end=28 offset=0
+<region> sample=../samples/SAW__A7A.wav  pitch_keycenter=106 lokey=92 hikey=108 tune=25 loop_start=6 loop_end=17 offset=0
+<region> sample=../samples/SAW__B2A.wav  pitch_keycenter=113 lokey=109 hikey=112 tune=23 loop_start=4 loop_end=15 offset=0
+<region> sample=../samples/SAW__B9B.wav  pitch_keycenter=118 lokey=113 hikey=127 tune=25 loop_start=3 loop_end=14 offset=0

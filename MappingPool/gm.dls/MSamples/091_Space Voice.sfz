@@ -1,0 +1,3 @@
+<region> sample=../samples/SPACE79.wav  pitch_keycenter=79 lokey=0 hikey=59 tune=-4 loop_start=1346 loop_end=6564 offset=0
+<region> sample=../samples/SPACE79.wav  pitch_keycenter=79 lokey=60 hikey=97 tune=-4 loop_start=1346 loop_end=6564 offset=0
+<region> sample=../samples/SPACE79.wav  pitch_keycenter=79 lokey=98 hikey=127 tune=-4 loop_start=1346 loop_end=6564 offset=0

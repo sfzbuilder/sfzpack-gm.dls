@@ -1,0 +1,8 @@
+<region> sample=../samples/CELLO28.wav  pitch_keycenter=28 lokey=0 hikey=33 tune=-13 loop_start=1251 loop_end=1781 offset=0
+<region> sample=../samples/CELLO41.wav  pitch_keycenter=41 lokey=34 hikey=45 tune=3 loop_start=813 loop_end=1065 offset=0
+<region> sample=../samples/CELLL64.wav  pitch_keycenter=53 lokey=46 hikey=55 tune=-14 loop_start=603 loop_end=1103 offset=0
+<region> sample=../samples/CELLH64.wav  pitch_keycenter=64 lokey=56 hikey=65 tune=3 loop_start=729 loop_end=795 offset=0
+<region> sample=../samples/CELLO76.wav  pitch_keycenter=76 lokey=66 hikey=91 tune=-23 loop_start=453 loop_end=485 offset=0
+<region> sample=../samples/VIOLNA4.wav  pitch_keycenter=92 lokey=92 hikey=105 tune=-3 loop_start=868 loop_end=920 offset=0
+<region> sample=../samples/SAW__A7A.wav  pitch_keycenter=106 lokey=106 hikey=106 tune=25 loop_start=6 loop_end=17 offset=0
+<region> sample=../samples/HARMOA8.wav  pitch_keycenter=96 lokey=107 hikey=127 tune=-6 loop_start=1 loop_end=21 offset=0

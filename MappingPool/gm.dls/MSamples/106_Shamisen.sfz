@@ -1,0 +1,6 @@
+<region> sample=../samples/SHAMI53.wav  pitch_keycenter=57 lokey=0 hikey=40 tune=47 loop_start=1065 loop_end=1167 offset=0
+<region> sample=../samples/SHAMI53.wav  pitch_keycenter=57 lokey=41 hikey=59 tune=47 loop_start=1065 loop_end=1167 offset=0
+<region> sample=../samples/SHAMI65.wav  pitch_keycenter=68 lokey=60 hikey=74 tune=-36 loop_start=806 loop_end=857 offset=0
+<region> sample=../samples/SHAMI77.wav  pitch_keycenter=80 lokey=75 hikey=85 tune=29 loop_start=776 loop_end=802 offset=0
+<region> sample=../samples/SHAMI89.wav  pitch_keycenter=90 lokey=86 hikey=104 tune=12 loop_start=349 loop_end=363 offset=0
+<region> sample=../samples/R_ORG88.wav  pitch_keycenter=88 lokey=105 hikey=127 tune=-6 loop_start=50 loop_end=99 offset=0

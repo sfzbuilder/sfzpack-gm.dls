@@ -1,0 +1,5 @@
+<region> sample=../samples/BAGPP64A.wav  pitch_keycenter=64 lokey=0 hikey=59 tune=-7 loop_start=2513 loop_end=2780 offset=0
+<region> sample=../samples/BAGPP74A.wav  pitch_keycenter=74 lokey=60 hikey=71 tune=11 loop_start=1787 loop_end=1824 offset=0
+<region> sample=../samples/BAGPP84A.wav  pitch_keycenter=84 lokey=72 hikey=79 tune=-5 loop_start=1781 loop_end=1949 offset=0
+<region> sample=../samples/BAGPP93A.wav  pitch_keycenter=93 lokey=80 hikey=95 tune=16 loop_start=684 loop_end=772 offset=0
+<region> sample=../samples/HARMOA8.wav  pitch_keycenter=96 lokey=96 hikey=127 tune=-15 loop_start=1 loop_end=21 offset=0

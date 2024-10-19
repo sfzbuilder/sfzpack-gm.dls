@@ -1,0 +1,10 @@
+<region> sample=../samples/TMPNI47.wav  pitch_keycenter=55 lokey=0 hikey=50 tune=-44 loop_start=0 loop_end=6768 offset=0
+<region> sample=../samples/TMPNI47.wav  pitch_keycenter=55 lokey=51 hikey=55 tune=-44 loop_start=0 loop_end=6768 offset=0
+<region> sample=../samples/TMPNI47.wav  pitch_keycenter=55 lokey=56 hikey=60 tune=-44 loop_start=0 loop_end=6768 offset=0
+<region> sample=../samples/TMPNI47.wav  pitch_keycenter=55 lokey=61 hikey=65 tune=-44 loop_start=0 loop_end=6768 offset=0
+<region> sample=../samples/TMPNI47.wav  pitch_keycenter=55 lokey=66 hikey=70 tune=-44 loop_start=0 loop_end=6768 offset=0
+<region> sample=../samples/TMPNI47.wav  pitch_keycenter=55 lokey=71 hikey=76 tune=-44 loop_start=0 loop_end=6768 offset=0
+<region> sample=../samples/TMPNI47.wav  pitch_keycenter=55 lokey=77 hikey=82 tune=-44 loop_start=0 loop_end=6768 offset=0
+<region> sample=../samples/TMPNI47.wav  pitch_keycenter=55 lokey=83 hikey=88 tune=-44 loop_start=0 loop_end=6768 offset=0
+<region> sample=../samples/TMPNI47.wav  pitch_keycenter=55 lokey=89 hikey=95 tune=-44 loop_start=0 loop_end=6768 offset=0
+<region> sample=../samples/TMPNI47.wav  pitch_keycenter=55 lokey=96 hikey=127 tune=-44 loop_start=0 loop_end=6768 offset=0

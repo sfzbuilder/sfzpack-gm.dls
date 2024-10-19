@@ -1,0 +1,6 @@
+<region> sample=../samples/OBOE_61A.wav  pitch_keycenter=61 lokey=0 hikey=64 tune=10 loop_start=2165 loop_end=2244 offset=0
+<region> sample=../samples/OBOE_69A.wav  pitch_keycenter=69 lokey=65 hikey=72 tune=30 loop_start=1579 loop_end=1629 offset=0
+<region> sample=../samples/OBOE_77A.wav  pitch_keycenter=77 lokey=73 hikey=79 tune=23 loop_start=1579 loop_end=1610 offset=0
+<region> sample=../samples/OBOE_85A.wav  pitch_keycenter=85 lokey=80 hikey=86 tune=10 loop_start=825 loop_end=904 offset=0
+<region> sample=../samples/OBOE_81.wav  pitch_keycenter=81 lokey=87 hikey=102 tune=-4 loop_start=201 loop_end=225 offset=0
+<region> sample=../samples/TRMPTB1A.wav  pitch_keycenter=99 lokey=103 hikey=127 tune=27 loop_start=208 loop_end=225 offset=0

@@ -1,0 +1,8 @@
+<region> sample=../samples/TNKBLA5.wav  pitch_keycenter=105 lokey=0 hikey=30 tune=42 loop_start=152 loop_end=228 offset=0
+<region> sample=../samples/TNKBLA5.wav  pitch_keycenter=105 lokey=31 hikey=40 tune=42 loop_start=152 loop_end=228 offset=0
+<region> sample=../samples/TNKBLA5.wav  pitch_keycenter=105 lokey=41 hikey=50 tune=42 loop_start=152 loop_end=228 offset=0
+<region> sample=../samples/TNKBLA5.wav  pitch_keycenter=105 lokey=51 hikey=60 tune=42 loop_start=152 loop_end=228 offset=0
+<region> sample=../samples/TNKBLA5.wav  pitch_keycenter=105 lokey=61 hikey=70 tune=42 loop_start=152 loop_end=228 offset=0
+<region> sample=../samples/TNKBLA5.wav  pitch_keycenter=105 lokey=71 hikey=76 tune=42 loop_start=152 loop_end=228 offset=0
+<region> sample=../samples/TNKBLA5.wav  pitch_keycenter=105 lokey=77 hikey=82 tune=42 loop_start=152 loop_end=228 offset=0
+<region> sample=../samples/TNKBLA5.wav  pitch_keycenter=105 lokey=83 hikey=127 tune=42 loop_start=152 loop_end=228 offset=0

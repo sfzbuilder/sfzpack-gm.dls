@@ -1,0 +1,7 @@
+<region> sample=../samples/NYLON48A.wav  pitch_keycenter=48 lokey=0 hikey=52 tune=-1 loop_start=3460 loop_end=4470 offset=0
+<region> sample=../samples/NYLON57A.wav  pitch_keycenter=57 lokey=53 hikey=66 tune=2 loop_start=3565 loop_end=4166 offset=0
+<region> sample=../samples/NYLON70A.wav  pitch_keycenter=70 lokey=67 hikey=76 tune=-1 loop_start=2820 loop_end=3339 offset=0
+<region> sample=../samples/NYLON79A.wav  pitch_keycenter=79 lokey=77 hikey=89 tune=8 loop_start=2787 loop_end=2899 offset=0
+<region> sample=../samples/NYLON88A.wav  pitch_keycenter=88 lokey=90 hikey=91 tune=8 loop_start=1727 loop_end=1810 offset=0
+<region> sample=../samples/NYLON97A.wav  pitch_keycenter=97 lokey=92 hikey=99 tune=10 loop_start=1008 loop_end=1087 offset=0
+<region> sample=../samples/JAZGTA1A.wav  pitch_keycenter=101 lokey=100 hikey=127 loop_start=1843 loop_end=2489 offset=0

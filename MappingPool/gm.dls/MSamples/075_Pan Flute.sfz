@@ -1,0 +1,3 @@
+<region> sample=../samples/PNFLT72.wav  pitch_keycenter=73 lokey=0 hikey=58 tune=46 loop_start=1680 loop_end=3844 offset=0
+<region> sample=../samples/PNFLT72.wav  pitch_keycenter=73 lokey=59 hikey=97 tune=46 loop_start=1680 loop_end=3844 offset=0
+<region> sample=../samples/S_SAXA2.wav  pitch_keycenter=89 lokey=98 hikey=127 tune=23 loop_start=458 loop_end=473 offset=0

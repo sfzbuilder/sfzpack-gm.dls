@@ -1,0 +1,4 @@
+<region> sample=../samples/CHRNG60.wav  pitch_keycenter=60 lokey=0 hikey=52 tune=1 loop_start=5879 loop_end=6131 offset=0
+<region> sample=../samples/CHRNG60.wav  pitch_keycenter=60 lokey=53 hikey=72 tune=1 loop_start=5879 loop_end=6131 offset=0
+<region> sample=../samples/CHRNG84.wav  pitch_keycenter=84 lokey=73 hikey=101 tune=35 loop_start=3188 loop_end=3230 offset=0
+<region> sample=../samples/DSTGTA9.wav  pitch_keycenter=97 lokey=102 hikey=127 tune=10 loop_start=503 loop_end=512 offset=0

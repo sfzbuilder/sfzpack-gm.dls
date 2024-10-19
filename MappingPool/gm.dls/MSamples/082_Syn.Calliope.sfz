@@ -1,0 +1,3 @@
+<region> sample=../samples/CALLI72.wav  pitch_keycenter=72 lokey=0 hikey=78 tune=3 loop_start=2088 loop_end=5633 offset=0
+<region> sample=../samples/CALLI84.wav  pitch_keycenter=84 lokey=79 hikey=102 tune=-2 loop_start=2192 loop_end=6316 offset=0
+<region> sample=../samples/SSTR186A.wav  pitch_keycenter=86 lokey=103 hikey=127 tune=2 loop_start=82 loop_end=9588 offset=0

@@ -1,0 +1,5 @@
+<region> sample=../samples/SLPMT52A.wav  pitch_keycenter=52 lokey=0 hikey=50 tune=6 loop_start=1260 loop_end=1796 offset=0
+<region> sample=../samples/SLPMT52A.wav  pitch_keycenter=52 lokey=51 hikey=60 tune=6 loop_start=1260 loop_end=1796 offset=0
+<region> sample=../samples/SLPBS43.wav  pitch_keycenter=43 lokey=61 hikey=69 tune=4 loop_start=3908 loop_end=5486 offset=0
+<region> sample=../samples/SLPBS84.wav  pitch_keycenter=83 lokey=70 hikey=104 tune=-25 loop_start=328 loop_end=349 offset=0
+<region> sample=../samples/STLGT84B.wav  pitch_keycenter=84 lokey=105 hikey=127 tune=3 loop_start=2763 loop_end=2952 offset=0

@@ -1,0 +1,2 @@
+<region> sample=../samples/DORG190.wav  pitch_keycenter=78 lokey=0 hikey=52 tune=-2 loop_start=903 loop_end=4668 offset=0
+<region> sample=../samples/DORG190.wav  pitch_keycenter=78 lokey=53 hikey=127 tune=-2 loop_start=903 loop_end=4668 offset=0

@@ -1,0 +1,4 @@
+<region> sample=../samples/BRASS64.wav  pitch_keycenter=64 lokey=0 hikey=68 tune=-23 loop_start=5805 loop_end=5870 offset=0
+<region> sample=../samples/BRASS72A.wav  pitch_keycenter=72 lokey=69 hikey=80 tune=2 loop_start=7241 loop_end=7451 offset=0
+<region> sample=../samples/BRASS84A.wav  pitch_keycenter=84 lokey=81 hikey=90 loop_start=7893 loop_end=8187 offset=0
+<region> sample=../samples/BRASS96A.wav  pitch_keycenter=96 lokey=91 hikey=127 tune=35 loop_start=5183 loop_end=5225 offset=0

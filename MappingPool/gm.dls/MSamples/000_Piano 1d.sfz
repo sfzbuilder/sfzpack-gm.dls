@@ -1,0 +1,10 @@
+<region> sample=../samples/PIANO36.wav  pitch_keycenter=36 lokey=0 hikey=32 tune=-4 loop_start=11989 loop_end=13670 offset=0
+<region> sample=../samples/PIANO41.wav  pitch_keycenter=41 lokey=33 hikey=37 tune=-1 loop_start=10830 loop_end=13101 offset=0
+<region> sample=../samples/PIANO48.wav  pitch_keycenter=48 lokey=38 hikey=44 loop_start=9313 loop_end=11166 offset=0
+<region> sample=../samples/PIANO56.wav  pitch_keycenter=56 lokey=45 hikey=53 loop_start=8309 loop_end=9795 offset=0
+<region> sample=../samples/PIANO64.wav  pitch_keycenter=64 lokey=54 hikey=61 tune=1 loop_start=9176 loop_end=10514 offset=0
+<region> sample=../samples/PIANO73.wav  pitch_keycenter=73 lokey=62 hikey=68 tune=1 loop_start=6194 loop_end=7586 offset=0
+<region> sample=../samples/PIANO78.wav  pitch_keycenter=78 lokey=69 hikey=75 tune=-1 loop_start=6447 loop_end=7667 offset=0
+<region> sample=../samples/PIANO84.wav  pitch_keycenter=84 lokey=76 hikey=82 tune=-2 loop_start=5976 loop_end=7343 offset=0
+<region> sample=../samples/PIANO92.wav  pitch_keycenter=92 lokey=83 hikey=96 tune=1 loop_start=5392 loop_end=6440 offset=0
+<region> sample=../samples/PIANOA3.wav  pitch_keycenter=103 lokey=97 hikey=127 tune=3 loop_start=4686 loop_end=4840 offset=0

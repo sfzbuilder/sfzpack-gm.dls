@@ -1,0 +1,8 @@
+<region> sample=../samples/CONBS28.wav  pitch_keycenter=29 lokey=0 hikey=38 tune=-14 loop_start=2415 loop_end=2915 offset=0
+<region> sample=../samples/CONBL41.wav  pitch_keycenter=42 lokey=39 hikey=54 tune=4 loop_start=1128 loop_end=1366 offset=0
+<region> sample=../samples/CONBH41.wav  pitch_keycenter=59 lokey=55 hikey=72 tune=14 loop_start=425 loop_end=514 offset=0
+<region> sample=../samples/HARMO76.wav  pitch_keycenter=64 lokey=73 hikey=87 tune=3 loop_start=1 loop_end=67 offset=0
+<region> sample=../samples/HARMO84.wav  pitch_keycenter=72 lokey=88 hikey=95 tune=-6 loop_start=3 loop_end=44 offset=0
+<region> sample=../samples/HARMO92.wav  pitch_keycenter=80 lokey=96 hikey=102 tune=-3 loop_start=2 loop_end=54 offset=0
+<region> sample=../samples/HARMOA0.wav  pitch_keycenter=88 lokey=103 hikey=106 tune=-6 loop_start=1 loop_end=50 offset=0
+<region> sample=../samples/HARMOA8.wav  pitch_keycenter=96 lokey=107 hikey=127 tune=-6 loop_start=1 loop_end=21 offset=0

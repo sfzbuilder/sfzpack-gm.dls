@@ -1,0 +1,2 @@
+<region> sample=../samples/FMVOX66A.wav  pitch_keycenter=66 lokey=0 hikey=69 tune=-6 loop_start=844 loop_end=3219 offset=0
+<region> sample=../samples/SPACE79.wav  pitch_keycenter=79 lokey=70 hikey=127 tune=-4 loop_start=1346 loop_end=6564 offset=0

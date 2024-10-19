@@ -1,0 +1,5 @@
+<region> sample=../samples/MMBAS40.wav  pitch_keycenter=56 lokey=0 hikey=43 tune=-3 loop_start=2717 loop_end=2822 offset=0
+<region> sample=../samples/MMBAS43.wav  pitch_keycenter=59 lokey=44 hikey=54 tune=-6 loop_start=2472 loop_end=2560 offset=0
+<region> sample=../samples/MMBAS62.wav  pitch_keycenter=76 lokey=55 hikey=80 tune=3 loop_start=997 loop_end=1130 offset=0
+<region> sample=../samples/MMBAS62.wav  pitch_keycenter=76 lokey=81 hikey=106 tune=3 loop_start=997 loop_end=1130 offset=0
+<region> sample=../samples/SINE_A0A.wav  pitch_keycenter=99 lokey=107 hikey=127 tune=27 loop_start=11 loop_end=28 offset=0

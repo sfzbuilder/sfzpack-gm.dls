@@ -1,0 +1,6 @@
+<region> sample=../samples/MUTGT43.wav  pitch_keycenter=43 lokey=0 hikey=69 loop_start=1184 loop_end=1408 offset=0
+<region> sample=../samples/MUTGT64.wav  pitch_keycenter=64 lokey=70 hikey=72 tune=3 loop_start=1007 loop_end=1073 offset=0
+<region> sample=../samples/MUTGT81.wav  pitch_keycenter=81 lokey=73 hikey=86 tune=-4 loop_start=485 loop_end=509 offset=0
+<region> sample=../samples/NYLON88A.wav  pitch_keycenter=88 lokey=87 hikey=91 tune=8 loop_start=1727 loop_end=1810 offset=0
+<region> sample=../samples/NYLON97A.wav  pitch_keycenter=97 lokey=92 hikey=99 tune=10 loop_start=1008 loop_end=1087 offset=0
+<region> sample=../samples/JAZGTA1A.wav  pitch_keycenter=101 lokey=100 hikey=127 loop_start=1843 loop_end=2489 offset=0

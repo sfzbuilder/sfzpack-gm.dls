@@ -1,0 +1,4 @@
+<region> sample=../samples/DOCSL53.wav  pitch_keycenter=53 lokey=0 hikey=47 tune=-4 loop_start=5339 loop_end=5464 offset=0
+<region> sample=../samples/DOCSL53.wav  pitch_keycenter=53 lokey=48 hikey=72 tune=-4 loop_start=5339 loop_end=5464 offset=0
+<region> sample=../samples/DOCSL77.wav  pitch_keycenter=77 lokey=73 hikey=104 tune=-4 loop_start=3461 loop_end=3523 offset=0
+<region> sample=../samples/S_SAXA8.wav  pitch_keycenter=95 lokey=105 hikey=127 tune=-25 loop_start=366 loop_end=409 offset=0

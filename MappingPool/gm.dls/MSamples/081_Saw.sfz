@@ -1,0 +1,8 @@
+<region> sample=../samples/SAW__40.wav  pitch_keycenter=40 lokey=0 hikey=40 tune=-17 loop_start=265 loop_end=529 offset=0
+<region> sample=../samples/SAW__52.wav  pitch_keycenter=52 lokey=41 hikey=51 tune=-23 loop_start=132 loop_end=263 offset=0
+<region> sample=../samples/SAW__64.wav  pitch_keycenter=64 lokey=52 hikey=63 tune=-23 loop_start=66 loop_end=131 offset=0
+<region> sample=../samples/SAW__76.wav  pitch_keycenter=76 lokey=64 hikey=76 tune=-23 loop_start=33 loop_end=65 offset=0
+<region> sample=../samples/SAW__88.wav  pitch_keycenter=88 lokey=77 hikey=88 tune=28 loop_start=17 loop_end=33 offset=0
+<region> sample=../samples/SAW__A0A.wav  pitch_keycenter=101 lokey=89 hikey=100 tune=23 loop_start=8 loop_end=23 offset=0
+<region> sample=../samples/SAW__B2A.wav  pitch_keycenter=113 lokey=101 hikey=112 tune=23 loop_start=4 loop_end=15 offset=0
+<region> sample=../samples/SAW__B9B.wav  pitch_keycenter=118 lokey=113 hikey=127 tune=25 loop_start=3 loop_end=14 offset=0

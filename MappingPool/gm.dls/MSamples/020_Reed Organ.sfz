@@ -1,0 +1,5 @@
+<region> sample=../samples/R_ORG53.wav  pitch_keycenter=53 lokey=0 hikey=46 tune=10 loop_start=41 loop_end=294 offset=0
+<region> sample=../samples/R_ORG53.wav  pitch_keycenter=53 lokey=47 hikey=68 tune=10 loop_start=41 loop_end=294 offset=0
+<region> sample=../samples/R_ORG72.wav  pitch_keycenter=72 lokey=69 hikey=83 tune=35 loop_start=12 loop_end=54 offset=0
+<region> sample=../samples/R_ORG72.wav  pitch_keycenter=72 lokey=84 hikey=92 tune=35 loop_start=12 loop_end=54 offset=0
+<region> sample=../samples/R_ORG88.wav  pitch_keycenter=88 lokey=93 hikey=127 tune=-6 loop_start=50 loop_end=99 offset=0

@@ -1,0 +1,6 @@
+<region> sample=../samples/BANJO60.wav  pitch_keycenter=60 lokey=0 hikey=40 tune=-27 loop_start=939 loop_end=1021 offset=0
+<region> sample=../samples/BANJO60.wav  pitch_keycenter=60 lokey=41 hikey=64 tune=-27 loop_start=939 loop_end=1021 offset=0
+<region> sample=../samples/BANJO70.wav  pitch_keycenter=70 lokey=65 hikey=79 tune=-11 loop_start=814 loop_end=1001 offset=0
+<region> sample=../samples/BANJO83.wav  pitch_keycenter=83 lokey=80 hikey=95 tune=-12 loop_start=521 loop_end=653 offset=0
+<region> sample=../samples/HRPSI87A.wav  pitch_keycenter=87 lokey=96 hikey=101 loop_start=3169 loop_end=3664 offset=0
+<region> sample=../samples/R_ORG88.wav  pitch_keycenter=88 lokey=102 hikey=127 tune=-6 loop_start=50 loop_end=99 offset=0

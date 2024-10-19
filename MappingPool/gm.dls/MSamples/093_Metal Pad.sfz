@@ -1,0 +1,5 @@
+<region> sample=../samples/HONKY42A.wav  pitch_keycenter=42 lokey=0 hikey=49 tune=-10 loop_start=5284 loop_end=5994 offset=0
+<region> sample=../samples/HONKY62B.wav  pitch_keycenter=62 lokey=50 hikey=67 tune=-10 loop_start=2699 loop_end=2922 offset=0
+<region> sample=../samples/HONKY71A.wav  pitch_keycenter=71 lokey=68 hikey=78 tune=-6 loop_start=2848 loop_end=2936 offset=0
+<region> sample=../samples/HONKY84A.wav  pitch_keycenter=84 lokey=79 hikey=90 tune=-6 loop_start=2585 loop_end=2605 offset=0
+<region> sample=../samples/HONKY96A.wav  pitch_keycenter=96 lokey=91 hikey=127 tune=7 loop_start=1802 loop_end=2002 offset=0

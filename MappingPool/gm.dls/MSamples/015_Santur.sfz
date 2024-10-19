@@ -1,0 +1,3 @@
+<region> sample=../samples/SANTR74.wav  pitch_keycenter=74 lokey=0 hikey=55 tune=-13 loop_start=1112 loop_end=1521 offset=0
+<region> sample=../samples/SANTR74.wav  pitch_keycenter=74 lokey=56 hikey=87 tune=-13 loop_start=1112 loop_end=1521 offset=0
+<region> sample=../samples/KOTO_A2A.wav  pitch_keycenter=103 lokey=88 hikey=127 tune=-8 loop_start=212 loop_end=225 offset=0

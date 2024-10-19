@@ -1,0 +1,3 @@
+<region> sample=../samples/GLKN285.wav  pitch_keycenter=85 lokey=0 hikey=87 tune=-19 loop_start=326 loop_end=443 offset=0
+<region> sample=../samples/GLKN385.wav  pitch_keycenter=91 lokey=88 hikey=91 tune=-8 loop_start=232 loop_end=315 offset=0
+<region> sample=../samples/GLKN585.wav  pitch_keycenter=102 lokey=92 hikey=127 tune=-27 loop_start=125 loop_end=168 offset=0

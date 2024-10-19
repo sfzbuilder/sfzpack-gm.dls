@@ -1,0 +1,5 @@
+<region> sample=../samples/POLY_48A.wav  pitch_keycenter=48 lokey=0 hikey=52 tune=4 loop_start=6350 loop_end=6518 offset=0
+<region> sample=../samples/POLY_60A.wav  pitch_keycenter=60 lokey=53 hikey=66 tune=-6 loop_start=5713 loop_end=5796 offset=0
+<region> sample=../samples/POLY_72A.wav  pitch_keycenter=72 lokey=67 hikey=78 tune=35 loop_start=4758 loop_end=4800 offset=0
+<region> sample=../samples/POLY_84A.wav  pitch_keycenter=83 lokey=79 hikey=90 tune=-25 loop_start=4663 loop_end=4684 offset=0
+<region> sample=../samples/POLY_96A.wav  pitch_keycenter=95 lokey=91 hikey=127 tune=-25 loop_start=3536 loop_end=3546 offset=0

@@ -1,0 +1,2 @@
+<region> sample=../samples/CHFFR72A.wav  pitch_keycenter=72 lokey=0 hikey=78 tune=-6 loop_start=5542 loop_end=5583 offset=0
+<region> sample=../samples/CHFFR84.wav  pitch_keycenter=83 lokey=79 hikey=127 tune=-25 loop_start=5913 loop_end=5934 offset=0

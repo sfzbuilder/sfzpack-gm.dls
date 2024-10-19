@@ -1,0 +1,2 @@
+<region> sample=../samples/FNTBL53C.wav  pitch_keycenter=88 lokey=0 hikey=102 tune=3 loop_start=1428 loop_end=1628 offset=0
+<region> sample=../samples/FANTA81.wav  pitch_keycenter=81 lokey=103 hikey=127 tune=-12 loop_start=2374 loop_end=3194 offset=0

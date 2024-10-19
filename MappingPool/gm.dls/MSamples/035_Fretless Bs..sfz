@@ -1,0 +1,6 @@
+<region> sample=../samples/FRTLS36A.wav  pitch_keycenter=36 lokey=0 hikey=42 tune=-1 loop_start=9308 loop_end=9644 offset=0
+<region> sample=../samples/FRTLS48A.wav  pitch_keycenter=48 lokey=43 hikey=66 tune=4 loop_start=5344 loop_end=5512 offset=0
+<region> sample=../samples/FRTLS60A.wav  pitch_keycenter=60 lokey=67 hikey=78 tune=-6 loop_start=2496 loop_end=2579 offset=0
+<region> sample=../samples/JAZGT84A.wav  pitch_keycenter=84 lokey=79 hikey=88 tune=2 loop_start=4102 loop_end=4987 offset=0
+<region> sample=../samples/JAZGT93A.wav  pitch_keycenter=93 lokey=89 hikey=97 tune=1 loop_start=2882 loop_end=3558 offset=0
+<region> sample=../samples/JAZGTA1A.wav  pitch_keycenter=101 lokey=98 hikey=127 loop_start=1843 loop_end=2489 offset=0

@@ -1,0 +1,4 @@
+<region> sample=../samples/HARP_57A.wav  pitch_keycenter=57 lokey=0 hikey=62 loop_start=3340 loop_end=3840 offset=0
+<region> sample=../samples/HARP_70A.wav  pitch_keycenter=70 lokey=63 hikey=76 tune=-1 loop_start=2937 loop_end=3456 offset=0
+<region> sample=../samples/HARP_83A.wav  pitch_keycenter=83 lokey=77 hikey=86 tune=1 loop_start=2290 loop_end=2758 offset=0
+<region> sample=../samples/HARP_96A.wav  pitch_keycenter=96 lokey=87 hikey=127 tune=6 loop_start=2033 loop_end=2180 offset=0

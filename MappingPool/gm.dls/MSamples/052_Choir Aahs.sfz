@@ -1,0 +1,3 @@
+<region> sample=../samples/CHOIR65A.wav  pitch_keycenter=68 lokey=0 hikey=85 tune=-20 loop_start=3689 loop_end=12400 offset=0
+<region> sample=../samples/SSTR186A.wav  pitch_keycenter=86 lokey=86 hikey=95 tune=2 loop_start=82 loop_end=9588 offset=0
+<region> sample=../samples/SSTR186A.wav  pitch_keycenter=86 lokey=96 hikey=127 tune=2 loop_start=82 loop_end=9588 offset=0

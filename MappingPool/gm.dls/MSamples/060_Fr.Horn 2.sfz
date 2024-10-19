@@ -1,0 +1,4 @@
+<region> sample=../samples/FHORN60.wav  pitch_keycenter=60 lokey=0 hikey=57 tune=2 loop_start=5356 loop_end=5777 offset=0
+<region> sample=../samples/FHORN72.wav  pitch_keycenter=72 lokey=58 hikey=69 tune=1 loop_start=3831 loop_end=4083 offset=0
+<region> sample=../samples/FHORN72.wav  pitch_keycenter=72 lokey=70 hikey=99 tune=1 loop_start=3831 loop_end=4083 offset=0
+<region> sample=../samples/S_SAXA8.wav  pitch_keycenter=95 lokey=100 hikey=127 tune=-25 loop_start=366 loop_end=409 offset=0

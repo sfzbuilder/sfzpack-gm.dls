@@ -1,0 +1,4 @@
+<region> sample=../samples/SITAR60.wav  pitch_keycenter=60 lokey=0 hikey=70 tune=-35 loop_start=469 loop_end=551 offset=0
+<region> sample=../samples/SITAR76.wav  pitch_keycenter=76 lokey=71 hikey=81 tune=-31 loop_start=445 loop_end=477 offset=0
+<region> sample=../samples/SITAR95.wav  pitch_keycenter=95 lokey=82 hikey=97 tune=-33 loop_start=345 loop_end=366 offset=0
+<region> sample=../samples/T_SAXA8.wav  pitch_keycenter=95 lokey=98 hikey=127 tune=-25 loop_start=403 loop_end=413 offset=0

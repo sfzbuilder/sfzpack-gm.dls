@@ -1,0 +1,5 @@
+<region> sample=../samples/VIBE_52A.wav  pitch_keycenter=52 lokey=0 hikey=57 loop_start=5878 loop_end=6546 offset=0
+<region> sample=../samples/VIBE_64A.wav  pitch_keycenter=64 lokey=58 hikey=70 tune=3 loop_start=5704 loop_end=5971 offset=0
+<region> sample=../samples/VIBE_76A.wav  pitch_keycenter=76 lokey=71 hikey=82 tune=6 loop_start=3300 loop_end=3534 offset=0
+<region> sample=../samples/VIBE_88A.wav  pitch_keycenter=88 lokey=83 hikey=93 tune=14 loop_start=2264 loop_end=2381 offset=0
+<region> sample=../samples/VIBE_A0A.wav  pitch_keycenter=100 lokey=94 hikey=127 tune=14 loop_start=2428 loop_end=2486 offset=0

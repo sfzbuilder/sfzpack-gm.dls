@@ -1,0 +1,5 @@
+<region> sample=../samples/BASSN44.wav  pitch_keycenter=44 lokey=0 hikey=50 tune=-3 loop_start=561 loop_end=772 offset=0
+<region> sample=../samples/BASSN69.wav  pitch_keycenter=69 lokey=51 hikey=68 tune=-39 loop_start=205 loop_end=253 offset=0
+<region> sample=../samples/BASSN69.wav  pitch_keycenter=69 lokey=69 hikey=86 tune=-39 loop_start=205 loop_end=253 offset=0
+<region> sample=../samples/B_SAXB0A.wav  pitch_keycenter=109 lokey=87 hikey=95 tune=10 loop_start=63 loop_end=72 offset=0
+<region> sample=../samples/T_SAXA8.wav  pitch_keycenter=95 lokey=96 hikey=127 tune=-25 loop_start=403 loop_end=413 offset=0

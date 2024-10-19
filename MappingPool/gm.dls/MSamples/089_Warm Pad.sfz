@@ -1,0 +1,3 @@
+<region> sample=../samples/WRMPD72A.wav  pitch_keycenter=74 lokey=0 hikey=63 tune=4 loop_start=399 loop_end=5778 offset=0
+<region> sample=../samples/WRMPD72A.wav  pitch_keycenter=74 lokey=64 hikey=104 tune=4 loop_start=399 loop_end=5778 offset=0
+<region> sample=../samples/FMVOX86A.wav  pitch_keycenter=86 lokey=105 hikey=127 tune=-5 loop_start=684 loop_end=3266 offset=0

@@ -1,0 +1,6 @@
+<region> sample=../samples/SOUND60.wav  pitch_keycenter=60 lokey=0 hikey=54 tune=2 loop_start=8409 loop_end=11784 offset=0
+<region> sample=../samples/SOUND60.wav  pitch_keycenter=60 lokey=55 hikey=68 tune=2 loop_start=8409 loop_end=11784 offset=0
+<region> sample=../samples/SOUND60.wav  pitch_keycenter=60 lokey=69 hikey=77 tune=2 loop_start=8409 loop_end=11784 offset=0
+<region> sample=../samples/SOUND84.wav  pitch_keycenter=84 lokey=78 hikey=84 tune=-3 loop_start=6590 loop_end=9491 offset=0
+<region> sample=../samples/SOUND84.wav  pitch_keycenter=84 lokey=85 hikey=95 tune=-3 loop_start=6590 loop_end=9491 offset=0
+<region> sample=../samples/SOUND84.wav  pitch_keycenter=84 lokey=96 hikey=127 tune=-3 loop_start=6590 loop_end=9491 offset=0

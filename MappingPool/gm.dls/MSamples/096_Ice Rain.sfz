@@ -1,0 +1,3 @@
+<region> sample=../samples/ICE__60A.wav  pitch_keycenter=67 lokey=0 hikey=78 tune=-4 loop_start=2901 loop_end=4752 offset=0
+<region> sample=../samples/ICE__84A.wav  pitch_keycenter=91 lokey=79 hikey=90 tune=1 loop_start=2237 loop_end=3896 offset=0
+<region> sample=../samples/ICE__84A.wav  pitch_keycenter=91 lokey=91 hikey=127 tune=1 loop_start=2237 loop_end=3896 offset=0

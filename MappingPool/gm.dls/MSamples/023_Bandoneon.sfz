@@ -1,0 +1,5 @@
+<region> sample=../samples/BANDO64.wav  pitch_keycenter=64 lokey=0 hikey=44 tune=3 loop_start=723 loop_end=789 offset=0
+<region> sample=../samples/BANDO64.wav  pitch_keycenter=64 lokey=45 hikey=71 tune=3 loop_start=723 loop_end=789 offset=0
+<region> sample=../samples/BANDO74.wav  pitch_keycenter=74 lokey=72 hikey=82 tune=21 loop_start=512 loop_end=587 offset=0
+<region> sample=../samples/R_ORG72.wav  pitch_keycenter=72 lokey=83 hikey=95 tune=35 loop_start=12 loop_end=54 offset=0
+<region> sample=../samples/R_ORG88.wav  pitch_keycenter=88 lokey=96 hikey=127 tune=-6 loop_start=50 loop_end=99 offset=0

@@ -1,0 +1,6 @@
+<region> sample=../samples/HARMO68.wav  pitch_keycenter=56 lokey=0 hikey=68 tune=-3 loop_start=2 loop_end=107 offset=0
+<region> sample=../samples/HARMO76.wav  pitch_keycenter=64 lokey=69 hikey=76 tune=3 loop_start=1 loop_end=67 offset=0
+<region> sample=../samples/HARMO84.wav  pitch_keycenter=72 lokey=77 hikey=84 tune=-6 loop_start=3 loop_end=44 offset=0
+<region> sample=../samples/HARMO92.wav  pitch_keycenter=80 lokey=85 hikey=92 tune=-3 loop_start=2 loop_end=54 offset=0
+<region> sample=../samples/HARMOA0.wav  pitch_keycenter=88 lokey=93 hikey=101 tune=-6 loop_start=1 loop_end=50 offset=0
+<region> sample=../samples/HARMOA8.wav  pitch_keycenter=96 lokey=102 hikey=127 tune=-6 loop_start=1 loop_end=21 offset=0

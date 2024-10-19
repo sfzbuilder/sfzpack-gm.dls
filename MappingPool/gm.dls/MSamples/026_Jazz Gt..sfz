@@ -1,0 +1,7 @@
+<region> sample=../samples/JAZGT50A.wav  pitch_keycenter=50 lokey=0 hikey=54 loop_start=4982 loop_end=6483 offset=0
+<region> sample=../samples/JAZGT59A.wav  pitch_keycenter=59 lokey=55 hikey=63 loop_start=4518 loop_end=6392 offset=0
+<region> sample=../samples/JAZGT68A.wav  pitch_keycenter=68 lokey=64 hikey=71 tune=-1 loop_start=4663 loop_end=5458 offset=0
+<region> sample=../samples/JAZGT74A.wav  pitch_keycenter=74 lokey=72 hikey=79 tune=1 loop_start=3895 loop_end=4420 offset=0
+<region> sample=../samples/JAZGT84A.wav  pitch_keycenter=84 lokey=80 hikey=88 tune=2 loop_start=4102 loop_end=4987 offset=0
+<region> sample=../samples/JAZGT93A.wav  pitch_keycenter=93 lokey=89 hikey=97 tune=1 loop_start=2882 loop_end=3558 offset=0
+<region> sample=../samples/JAZGTA1A.wav  pitch_keycenter=101 lokey=98 hikey=127 loop_start=1843 loop_end=2489 offset=0

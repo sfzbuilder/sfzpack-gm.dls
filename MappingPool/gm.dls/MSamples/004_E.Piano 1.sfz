@@ -1,0 +1,5 @@
+<region> sample=../samples/ELP1_49.wav  pitch_keycenter=49 lokey=0 hikey=46 tune=10 loop_start=800 loop_end=959 offset=0
+<region> sample=../samples/ELP1_56.wav  pitch_keycenter=56 lokey=47 hikey=66 tune=13 loop_start=731 loop_end=837 offset=0
+<region> sample=../samples/ELP1_67.wav  pitch_keycenter=67 lokey=67 hikey=80 tune=-8 loop_start=361 loop_end=416 offset=0
+<region> sample=../samples/ELP1_80.wav  pitch_keycenter=80 lokey=81 hikey=101 tune=-3 loop_start=442 loop_end=494 offset=0
+<region> sample=../samples/ELP1_97.wav  pitch_keycenter=97 lokey=102 hikey=127 tune=10 loop_start=104 loop_end=113 offset=0

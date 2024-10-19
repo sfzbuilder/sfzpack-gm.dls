@@ -1,0 +1,5 @@
+<region> sample=../samples/SHAKU63.wav  pitch_keycenter=63 lokey=0 hikey=66 tune=-2 loop_start=3559 loop_end=5894 offset=0
+<region> sample=../samples/SHAKU70.wav  pitch_keycenter=70 lokey=67 hikey=73 tune=-1 loop_start=2962 loop_end=4852 offset=0
+<region> sample=../samples/SHAKU78.wav  pitch_keycenter=78 lokey=74 hikey=95 tune=-2 loop_start=2509 loop_end=4502 offset=0
+<region> sample=../samples/PICLO84.wav  pitch_keycenter=84 lokey=96 hikey=102 tune=-6 loop_start=668 loop_end=688 offset=0
+<region> sample=../samples/OCARI96A.wav  pitch_keycenter=95 lokey=103 hikey=127 tune=-25 loop_start=2880 loop_end=2890 offset=0

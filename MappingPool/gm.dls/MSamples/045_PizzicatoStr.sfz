@@ -1,0 +1,2 @@
+<region> sample=../samples/PIZZ_71.wav  pitch_keycenter=71 lokey=0 hikey=88 tune=-17 loop_start=2073 loop_end=2470 offset=0
+<region> sample=../samples/PIZZH84.wav  pitch_keycenter=96 lokey=89 hikey=127 tune=1 loop_start=549 loop_end=685 offset=0

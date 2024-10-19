@@ -1,0 +1,5 @@
+<region> sample=../samples/HRPSI48A.wav  pitch_keycenter=48 lokey=0 hikey=51 loop_start=5506 loop_end=6685 offset=0
+<region> sample=../samples/HRPSI60A.wav  pitch_keycenter=60 lokey=52 hikey=63 tune=-1 loop_start=4501 loop_end=5174 offset=0
+<region> sample=../samples/HRPSI72A.wav  pitch_keycenter=72 lokey=64 hikey=77 tune=-1 loop_start=3291 loop_end=4006 offset=0
+<region> sample=../samples/HRPSI87A.wav  pitch_keycenter=87 lokey=78 hikey=97 loop_start=3169 loop_end=3664 offset=0
+<region> sample=../samples/HRPSI87A.wav  pitch_keycenter=87 lokey=98 hikey=127 loop_start=3169 loop_end=3664 offset=0

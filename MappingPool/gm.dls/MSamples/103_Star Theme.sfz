@@ -1,0 +1,3 @@
+<region> sample=../samples/STAR_60A.wav  pitch_keycenter=60 lokey=0 hikey=82 tune=0 loop_start=2324 loop_end=4600 offset=0
+<region> sample=../samples/STAR_84A.wav  pitch_keycenter=84 lokey=83 hikey=99 tune=-10 loop_start=2504 loop_end=2524 offset=0
+<region> sample=../samples/S_SAXA2.wav  pitch_keycenter=89 lokey=100 hikey=127 tune=20 loop_start=458 loop_end=473 offset=0

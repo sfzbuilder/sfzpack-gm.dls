@@ -1,0 +1,10 @@
+<region> sample=../samples/TRMBN40A.wav  pitch_keycenter=40 lokey=0 hikey=43 tune=3 loop_start=1941 loop_end=2208 offset=0
+<region> sample=../samples/TRMBN48A.wav  pitch_keycenter=48 lokey=44 hikey=50 tune=4 loop_start=2724 loop_end=2892 offset=0
+<region> sample=../samples/TRMBN55A.wav  pitch_keycenter=55 lokey=51 hikey=57 tune=8 loop_start=2251 loop_end=2363 offset=0
+<region> sample=../samples/TRMPT65.wav  pitch_keycenter=53 lokey=58 hikey=65 tune=10 loop_start=1275 loop_end=1401 offset=0
+<region> sample=../samples/TRMPT73.wav  pitch_keycenter=61 lokey=66 hikey=73 tune=10 loop_start=1210 loop_end=1289 offset=0
+<region> sample=../samples/TRMPT81.wav  pitch_keycenter=69 lokey=74 hikey=81 tune=-4 loop_start=942 loop_end=1041 offset=0
+<region> sample=../samples/TRMPT86.wav  pitch_keycenter=74 lokey=82 hikey=86 tune=21 loop_start=721 loop_end=758 offset=0
+<region> sample=../samples/TRMPT92.wav  pitch_keycenter=80 lokey=87 hikey=93 tune=29 loop_start=560 loop_end=586 offset=0
+<region> sample=../samples/TRMPTA1.wav  pitch_keycenter=89 lokey=94 hikey=103 tune=23 loop_start=444 loop_end=459 offset=0
+<region> sample=../samples/S_SAXA8.wav  pitch_keycenter=95 lokey=104 hikey=127 tune=-25 loop_start=366 loop_end=409 offset=0

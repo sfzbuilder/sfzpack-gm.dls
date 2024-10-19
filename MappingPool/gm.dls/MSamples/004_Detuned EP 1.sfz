@@ -1,0 +1,4 @@
+<region> sample=../samples/DELP160A.wav  pitch_keycenter=60 lokey=0 hikey=47 tune=-8 loop_start=6178 loop_end=6932 offset=0
+<region> sample=../samples/DELP160A.wav  pitch_keycenter=60 lokey=48 hikey=72 tune=-8 loop_start=6178 loop_end=6932 offset=0
+<region> sample=../samples/DELP184A.wav  pitch_keycenter=84 lokey=73 hikey=103 tune=-6 loop_start=2112 loop_end=2216 offset=0
+<region> sample=../samples/DELP184A.wav  pitch_keycenter=84 lokey=104 hikey=127 tune=-6 loop_start=2112 loop_end=2216 offset=0

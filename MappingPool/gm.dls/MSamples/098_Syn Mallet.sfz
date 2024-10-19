@@ -1,0 +1,4 @@
+<region> sample=../samples/SYNCL70.wav  pitch_keycenter=70 lokey=0 hikey=78 tune=-11 loop_start=48 loop_end=94 offset=0
+<region> sample=../samples/SYNCL75.wav  pitch_keycenter=75 lokey=79 hikey=85 tune=-21 loop_start=36 loop_end=70 offset=0
+<region> sample=../samples/SYNCL87.wav  pitch_keycenter=87 lokey=86 hikey=99 tune=27 loop_start=38 loop_end=55 offset=0
+<region> sample=../samples/R_ORG88.wav  pitch_keycenter=88 lokey=100 hikey=127 tune=-6 loop_start=50 loop_end=99 offset=0

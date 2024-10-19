@@ -1,0 +1,5 @@
+<region> sample=../samples/SYBS233.wav pitch_keycenter=33 lokey=0 hikey=43 loop_start=9501 loop_end=9901 offset=0
+<region> sample=../samples/SYBS248A.wav pitch_keycenter=48 lokey=44 hikey=66 tune=15 loop_start=2768 loop_end=3107 offset=0
+<region> sample=../samples/SYBS272A.wav pitch_keycenter=72 lokey=67 hikey=83 tune=-6 loop_start=2956 loop_end=2997 offset=0
+<region> sample=../samples/SYBS272A.wav pitch_keycenter=72 lokey=84 hikey=96 tune=-6 loop_start=2956 loop_end=2997 offset=0
+<region> sample=../samples/STLGT84B.wav pitch_keycenter=84 lokey=97 hikey=127 tune=3 loop_start=2763 loop_end=2952 offset=0

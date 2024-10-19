@@ -1,0 +1,9 @@
+<region> sample=../samples/DSTGT48.wav  pitch_keycenter=36 lokey=0 hikey=48 tune=-1 loop_start=3314 loop_end=3650 offset=0
+<region> sample=../samples/DSTGT54.wav  pitch_keycenter=42 lokey=49 hikey=54 tune=-10 loop_start=3044 loop_end=3280 offset=0
+<region> sample=../samples/DSTGT59.wav  pitch_keycenter=47 lokey=55 hikey=59 tune=-6 loop_start=2091 loop_end=2268 offset=0
+<region> sample=../samples/DSTGT64.wav  pitch_keycenter=52 lokey=60 hikey=64 tune=-10 loop_start=1671 loop_end=1803 offset=0
+<region> sample=../samples/DSTGT71.wav  pitch_keycenter=59 lokey=65 hikey=71 tune=-6 loop_start=850 loop_end=938 offset=0
+<region> sample=../samples/DSTGT77.wav  pitch_keycenter=65 lokey=72 hikey=77 tune=-4 loop_start=1062 loop_end=1124 offset=0
+<region> sample=../samples/DSTGT92.wav  pitch_keycenter=80 lokey=78 hikey=92 tune=-36 loop_start=661 loop_end=712 offset=0
+<region> sample=../samples/DSTGTA1.wav  pitch_keycenter=89 lokey=93 hikey=101 tune=-32 loop_start=394 loop_end=424 offset=0
+<region> sample=../samples/DSTGTA9.wav  pitch_keycenter=97 lokey=102 hikey=127 tune=10 loop_start=503 loop_end=512 offset=0

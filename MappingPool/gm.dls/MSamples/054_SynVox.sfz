@@ -1,0 +1,4 @@
+<region> sample=../samples/SYNVX70.wav  pitch_keycenter=74 lokey=0 hikey=55 tune=-27 loop_start=18 loop_end=5377 offset=0
+<region> sample=../samples/SYNVX70.wav  pitch_keycenter=74 lokey=56 hikey=89 tune=-27 loop_start=18 loop_end=5377 offset=0
+<region> sample=../samples/SYNVXA6A.wav  pitch_keycenter=106 lokey=90 hikey=102 tune=-27 loop_start=29 loop_end=1588 offset=0
+<region> sample=../samples/HARMOA8.wav  pitch_keycenter=96 lokey=103 hikey=127 tune=-6 loop_start=1 loop_end=21 offset=0

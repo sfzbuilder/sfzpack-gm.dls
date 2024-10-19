@@ -1,0 +1,4 @@
+<region> sample=../samples/SBRS243.wav  pitch_keycenter=43 lokey=0 hikey=47 loop_start=8834 loop_end=9508 offset=0
+<region> sample=../samples/SBRS255.wav  pitch_keycenter=55 lokey=48 hikey=67 tune=3 loop_start=5417 loop_end=5754 offset=0
+<region> sample=../samples/SBRS272.wav  pitch_keycenter=72 lokey=68 hikey=88 tune=35 loop_start=3494 loop_end=3536 offset=0
+<region> sample=../samples/SBRS296.wav  pitch_keycenter=95 lokey=89 hikey=127 tune=-25 loop_start=2406 loop_end=2427 offset=0

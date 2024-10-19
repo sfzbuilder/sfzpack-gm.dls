@@ -1,0 +1,7 @@
+<region> sample=../samples/MUTTP64B.wav  pitch_keycenter=64 lokey=0 hikey=66 tune=3 loop_start=4115 loop_end=4181 offset=0
+<region> sample=../samples/MUTTP73B.wav  pitch_keycenter=73 lokey=67 hikey=74 tune=10 loop_start=3422 loop_end=3501 offset=0
+<region> sample=../samples/MUTTP79B.wav  pitch_keycenter=79 lokey=75 hikey=81 tune=8 loop_start=3254 loop_end=3366 offset=0
+<region> sample=../samples/MUTTP86B.wav  pitch_keycenter=86 lokey=82 hikey=87 tune=21 loop_start=2835 loop_end=2872 offset=0
+<region> sample=../samples/TRMPT92.wav  pitch_keycenter=80 lokey=88 hikey=93 tune=29 loop_start=560 loop_end=586 offset=0
+<region> sample=../samples/TRMPTA1.wav  pitch_keycenter=89 lokey=94 hikey=103 tune=23 loop_start=444 loop_end=459 offset=0
+<region> sample=../samples/S_SAXA8.wav  pitch_keycenter=95 lokey=104 hikey=127 tune=-25 loop_start=366 loop_end=409 offset=0

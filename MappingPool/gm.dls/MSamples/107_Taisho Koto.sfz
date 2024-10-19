@@ -1,0 +1,4 @@
+<region> sample=../samples/TKOTO67.wav  pitch_keycenter=67 lokey=0 hikey=48 tune=-3 loop_start=4574 loop_end=4910 offset=0
+<region> sample=../samples/TKOTO67.wav  pitch_keycenter=67 lokey=49 hikey=75 tune=-3 loop_start=4574 loop_end=4910 offset=0
+<region> sample=../samples/TKOTO79.wav  pitch_keycenter=79 lokey=76 hikey=104 tune=-8 loop_start=3431 loop_end=3542 offset=0
+<region> sample=../samples/R_ORG88.wav  pitch_keycenter=88 lokey=105 hikey=127 tune=-6 loop_start=50 loop_end=99 offset=0

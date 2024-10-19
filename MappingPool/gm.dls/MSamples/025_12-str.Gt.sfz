@@ -1,0 +1,4 @@
+<region> sample=../samples/STLGT49B.wav  pitch_keycenter=49 lokey=0 hikey=47 loop_start=4790 loop_end=5903 offset=0
+<region> sample=../samples/12STR55A.wav  pitch_keycenter=55 lokey=48 hikey=69 tune=2 loop_start=5448 loop_end=6010 offset=0
+<region> sample=../samples/12STR79A.wav  pitch_keycenter=79 lokey=70 hikey=86 tune=-1 loop_start=2337 loop_end=3123 offset=0
+<region> sample=../samples/12STR89A.wav  pitch_keycenter=89 lokey=87 hikey=127 tune=-6 loop_start=1827 loop_end=2408 offset=0

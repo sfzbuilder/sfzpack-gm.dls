@@ -1,0 +1,4 @@
+<region> sample=../samples/M_BOX82.wav  pitch_keycenter=82 lokey=0 hikey=57 tune=1 loop_start=583 loop_end=795 offset=0
+<region> sample=../samples/M_BOX82.wav  pitch_keycenter=82 lokey=58 hikey=88 tune=1 loop_start=583 loop_end=795 offset=0
+<region> sample=../samples/CELSTA1.wav  pitch_keycenter=101 lokey=89 hikey=102 tune=-32 loop_start=81 loop_end=142 offset=0
+<region> sample=../samples/MRMBA90.wav  pitch_keycenter=90 lokey=103 hikey=127 tune=12 loop_start=299 loop_end=313 offset=0

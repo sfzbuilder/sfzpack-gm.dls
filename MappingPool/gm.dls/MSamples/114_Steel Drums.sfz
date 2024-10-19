@@ -1,0 +1,2 @@
+<region> sample=../samples/STLDR72.wav  pitch_keycenter=83 lokey=0 hikey=106 tune=-29 loop_start=2661 loop_end=3121 offset=0
+<region> sample=../samples/HARP_96A.wav  pitch_keycenter=96 lokey=107 hikey=127 tune=6 loop_start=2033 loop_end=2180 offset=0

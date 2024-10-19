@@ -1,0 +1,7 @@
+<region> sample=../samples/FLUTE65A.wav  pitch_keycenter=65 lokey=0 hikey=69 tune=23 loop_start=1920 loop_end=1983 offset=0
+<region> sample=../samples/FLUTE73A.wav  pitch_keycenter=73 lokey=70 hikey=77 tune=10 loop_start=1948 loop_end=2027 offset=0
+<region> sample=../samples/FLUTE79A.wav  pitch_keycenter=78 lokey=78 hikey=84 tune=-47 loop_start=1793 loop_end=1821 offset=0
+<region> sample=../samples/FLUTE88A.wav  pitch_keycenter=88 lokey=85 hikey=91 tune=28 loop_start=1261 loop_end=1294 offset=0
+<region> sample=../samples/FLUTE96A.wav  pitch_keycenter=95 lokey=92 hikey=97 tune=-25 loop_start=1044 loop_end=1054 offset=0
+<region> sample=../samples/FLUTEA5A.wav  pitch_keycenter=104 lokey=98 hikey=100 tune=-36 loop_start=681 loop_end=693 offset=0
+<region> sample=../samples/OCARI96A.wav  pitch_keycenter=95 lokey=101 hikey=127 tune=-25 loop_start=2880 loop_end=2890 offset=0

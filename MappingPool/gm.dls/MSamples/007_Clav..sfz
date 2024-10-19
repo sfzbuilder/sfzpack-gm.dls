@@ -1,0 +1,5 @@
+<region> sample=../samples/CLAVI48.wav  pitch_keycenter=48 lokey=0 hikey=46 tune=-6 loop_start=467 loop_end=634 offset=0
+<region> sample=../samples/CLAVI60.wav  pitch_keycenter=60 lokey=47 hikey=65 tune=-6 loop_start=290 loop_end=373 offset=0
+<region> sample=../samples/CLAVI72.wav  pitch_keycenter=72 lokey=66 hikey=78 tune=-6 loop_start=206 loop_end=247 offset=0
+<region> sample=../samples/CLAVI84.wav  pitch_keycenter=84 lokey=79 hikey=95 tune=-6 loop_start=76 loop_end=96 offset=0
+<region> sample=../samples/KOTO_A2A.wav  pitch_keycenter=103 lokey=96 hikey=127 tune=-8 loop_start=212 loop_end=225 offset=0

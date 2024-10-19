@@ -1,0 +1,6 @@
+<region> sample=../samples/PCKBS30A.wav  pitch_keycenter=30 lokey=0 hikey=35 tune=4 loop_start=6692 loop_end=7169 offset=0
+<region> sample=../samples/PCKBS40A.wav  pitch_keycenter=40 lokey=36 hikey=45 tune=-4 loop_start=6302 loop_end=6835 offset=0
+<region> sample=../samples/PCKBS50A.wav  pitch_keycenter=50 lokey=46 hikey=78 tune=4 loop_start=3397 loop_end=3697 offset=0
+<region> sample=../samples/JAZGT84A.wav  pitch_keycenter=84 lokey=79 hikey=88 tune=2 loop_start=4102 loop_end=4987 offset=0
+<region> sample=../samples/JAZGT93A.wav  pitch_keycenter=93 lokey=89 hikey=97 tune=1 loop_start=2882 loop_end=3558 offset=0
+<region> sample=../samples/JAZGTA1A.wav  pitch_keycenter=101 lokey=98 hikey=127 loop_start=1843 loop_end=2489 offset=0

@@ -1,0 +1,9 @@
+<region> sample=../samples/VIOLN68.wav  pitch_keycenter=56 lokey=0 hikey=60 tune=-3 loop_start=1341 loop_end=1446 offset=0
+<region> sample=../samples/VIOLN70.wav  pitch_keycenter=58 lokey=61 hikey=62 tune=7 loop_start=1483 loop_end=1577 offset=0
+<region> sample=../samples/VIOLN76.wav  pitch_keycenter=64 lokey=63 hikey=68 tune=3 loop_start=1330 loop_end=1396 offset=0
+<region> sample=../samples/VIOLN80.wav  pitch_keycenter=68 lokey=69 hikey=72 tune=-3 loop_start=1298 loop_end=1350 offset=0
+<region> sample=../samples/VIOLN86.wav  pitch_keycenter=74 lokey=73 hikey=78 tune=-25 loop_start=1115 loop_end=1151 offset=0
+<region> sample=../samples/VIOLN95.wav  pitch_keycenter=83 lokey=79 hikey=84 tune=-25 loop_start=934 loop_end=955 offset=0
+<region> sample=../samples/VIOLNA4.wav  pitch_keycenter=92 lokey=85 hikey=105 tune=-3 loop_start=868 loop_end=920 offset=0
+<region> sample=../samples/SAW__A7A.wav  pitch_keycenter=106 lokey=106 hikey=106 tune=25 loop_start=6 loop_end=17 offset=0
+<region> sample=../samples/S_SAXA8.wav  pitch_keycenter=95 lokey=107 hikey=127 tune=-25 loop_start=366 loop_end=409 offset=0

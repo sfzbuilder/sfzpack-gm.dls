@@ -1,0 +1,4 @@
+<region> sample=../samples/FANTA53.wav  pitch_keycenter=53 lokey=0 hikey=71 tune=4 loop_start=3820 loop_end=5464 offset=0
+<region> sample=../samples/FANTA81.wav  pitch_keycenter=81 lokey=72 hikey=83 tune=-12 loop_start=2374 loop_end=3194 offset=0
+<region> sample=../samples/FANTA81.wav  pitch_keycenter=81 lokey=84 hikey=99 tune=-12 loop_start=2374 loop_end=3194 offset=0
+<region> sample=../samples/MRMBA90.wav  pitch_keycenter=90 lokey=100 hikey=127 tune=12 loop_start=299 loop_end=313 offset=0

@@ -1,0 +1,7 @@
+<region> sample=../samples/60PNO43.wav  pitch_keycenter=48 lokey=0 hikey=45 tune=-6 loop_start=927 loop_end=1094 offset=0
+<region> sample=../samples/60PNO48.wav  pitch_keycenter=53 lokey=46 hikey=53 tune=-4 loop_start=402 loop_end=653 offset=0
+<region> sample=../samples/60PNO58.wav  pitch_keycenter=64 lokey=54 hikey=63 tune=3 loop_start=909 loop_end=1042 offset=0
+<region> sample=../samples/60PNO66.wav  pitch_keycenter=70 lokey=64 hikey=75 tune=-11 loop_start=946 loop_end=1039 offset=0
+<region> sample=../samples/60PNO80.wav  pitch_keycenter=83 lokey=76 hikey=83 tune=1 loop_start=936 loop_end=1002 offset=0
+<region> sample=../samples/60PNO86.wav  pitch_keycenter=87 lokey=84 hikey=91 tune=-5 loop_start=904 loop_end=956 offset=0
+<region> sample=../samples/60PNO92.wav  pitch_keycenter=93 lokey=92 hikey=127 tune=-4 loop_start=695 loop_end=769 offset=0

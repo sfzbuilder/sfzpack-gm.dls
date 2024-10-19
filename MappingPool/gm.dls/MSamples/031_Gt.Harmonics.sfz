@@ -1,0 +1,4 @@
+<region> sample=../samples/HRMGT52.wav  pitch_keycenter=67 lokey=0 hikey=64 tune=27 loop_start=784 loop_end=854 offset=0
+<region> sample=../samples/HRMGT76.wav  pitch_keycenter=82 lokey=65 hikey=80 tune=26 loop_start=691 loop_end=708 offset=0
+<region> sample=../samples/HRMGT76.wav  pitch_keycenter=82 lokey=81 hikey=95 tune=26 loop_start=691 loop_end=708 offset=0
+<region> sample=../samples/HRMGT76.wav  pitch_keycenter=99 lokey=96 hikey=127 tune=26 loop_start=691 loop_end=708 offset=0

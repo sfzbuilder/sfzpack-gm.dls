@@ -1,0 +1,6 @@
+<region> sample=../samples/SINE_52.wav  pitch_keycenter=52 lokey=0 hikey=52 tune=-10 loop_start=100 loop_end=232 offset=0
+<region> sample=../samples/SINE_64.wav  pitch_keycenter=64 lokey=53 hikey=64 tune=3 loop_start=51 loop_end=117 offset=0
+<region> sample=../samples/SINE_76.wav  pitch_keycenter=76 lokey=65 hikey=82 tune=28 loop_start=25 loop_end=58 offset=0
+<region> sample=../samples/SINE_88.wav  pitch_keycenter=88 lokey=83 hikey=100 tune=28 loop_start=13 loop_end=29 offset=0
+<region> sample=../samples/SINE_88.wav  pitch_keycenter=88 lokey=101 hikey=108 tune=28 loop_start=13 loop_end=29 offset=0
+<region> sample=../samples/SINE_A0A.wav  pitch_keycenter=99 lokey=109 hikey=127 tune=27 loop_start=11 loop_end=28 offset=0

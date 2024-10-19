@@ -1,0 +1,7 @@
+<region> sample=../samples/STLGT41B.wav  pitch_keycenter=41 lokey=0 hikey=44 tune=-4 loop_start=8352 loop_end=9359 offset=0
+<region> sample=../samples/STLGT49B.wav  pitch_keycenter=49 lokey=45 hikey=52 loop_start=4790 loop_end=5903 offset=0
+<region> sample=../samples/STLGT57B.wav  pitch_keycenter=57 lokey=53 hikey=60 tune=2 loop_start=4724 loop_end=5024 offset=0
+<region> sample=../samples/STLGT65B.wav  pitch_keycenter=65 lokey=61 hikey=69 tune=3 loop_start=4886 loop_end=5138 offset=0
+<region> sample=../samples/STLGT74B.wav  pitch_keycenter=74 lokey=70 hikey=81 tune=3 loop_start=3596 loop_end=3783 offset=0
+<region> sample=../samples/STLGT84B.wav  pitch_keycenter=84 lokey=82 hikey=88 tune=3 loop_start=2763 loop_end=2952 offset=0
+<region> sample=../samples/STLGT84B.wav  pitch_keycenter=84 lokey=89 hikey=127 tune=3 loop_start=2763 loop_end=2952 offset=0
