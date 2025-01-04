@@ -1,5 +1,5 @@
-# gm.dls for SFZBuilder
-SFZPack of the infamous default soundbank for Microsoft GS Software Wavetable Synthesizer (also included in QuickTime Music Synthesiser for Mac users).
+# gm.dls for SFZmaker
+SFZpack of the infamous default soundbank for Microsoft GS Software Wavetable Synthesizer (also included in QuickTime Music Synthesiser for Mac users).
 
 ## Sample extraction
 First, get your copy of gm.dls and extract the samples as wav files:
